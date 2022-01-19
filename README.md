@@ -24,9 +24,9 @@ You can install the released version of regexcite from
 [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
-# install.packages("devtools")
+# install.packages("regexcite")
+install.packages("devtools")
 devtools::install_github("Affrin101/regexcite")
-install.packages("regexcite")
 ```
 
 ## Usage
